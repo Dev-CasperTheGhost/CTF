@@ -1,5 +1,5 @@
  # **UploadEz**
- 
+ (huhu-đề khó quá hết giải thì làm lại mảng web làm đc mỗi 1 câu này)
 - đầu tiên mình thấy họ cho 1 file docker để test, mình download về và nghịch thử
 
 ![1](https://user-images.githubusercontent.com/85442500/205485231-a4e32552-65a9-4903-a5fb-b6f892c1c264.png)
