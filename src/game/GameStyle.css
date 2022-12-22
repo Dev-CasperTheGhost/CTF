@@ -1,0 +1,53 @@
+#buttonsBox-id {
+	-fx-alignment: CENTER;
+}
+
+/* hbox.getStyleClass().add("hbox");*/
+
+.vbox {
+	-fx-background-color: black;
+}
+.hbox {
+	/*-fx-background-color: #2f2f2f; */
+	-fx-background-image: url("images/highscoreBackground.jpg");
+	-fx-background-repeat: stretch;
+	-fx-background-position: center center;
+	-fx-background-size: cover;
+}
+
+.highscoreMessage { 
+	-fx-font-size: 22px;
+/*  -fx-text=fill: */
+}
+
+.gameTitle {
+	-fx-font-size: 80px;
+	-fx-fill: linear-gradient(to left top, red, white);
+	-fx-stroke: black;
+	-fx-stroke-width: 2;
+}
+
+.startScreen {
+	-fx-background-image: url("images/startBackground.jpg");
+	-fx-background-image: stretch;
+	-fx-background-position: center center;
+	-fx-background-size: cover;
+}
+
+.bossBackground {
+	-fx-background-image: url("images/win-bgr.jpg");
+	/*-fx-background-color: rgba(49, 39, 39);
+	-fx-background-image: stretch;
+	-fx-background-position: center top;
+	-fx-background-repeat: no-repeat; */
+	-fx-background-image: stretch;
+	-fx-background-position: center center;
+	-fx-background-size: cover;
+}
+
+.gameOverLost {
+	-fx-background-image: url("images/lost-bgr.jpg");
+	-fx-background-image: stretch;
+	-fx-background-position: center center;
+	-fx-background-size: cover;
+}
