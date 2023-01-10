@@ -1,5 +1,5 @@
 
-Hello mn lại là mình đây, nay được nghỉ rảnh nên mình có viết writeup cho 1 câu network đơn giản của giải này  
+Hello mn lại là mình đây, nay được nghỉ rảnh nên mình có viết writeup cho 1 câu network khá quen thuộc của giải này  
 **BabyShark**
  
 ![image](https://user-images.githubusercontent.com/85442500/211454712-4f301367-18bb-4946-90ad-3ae56fec65fc.png)
